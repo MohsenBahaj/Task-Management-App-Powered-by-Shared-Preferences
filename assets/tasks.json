@@ -1,0 +1,17 @@
+[
+    {
+      "id": "1",
+      "title": "Buy groceries",
+      "description": "Milk, Bread, Eggs, and Fruits",
+      "isCompleted": false,
+      "dueDate": "2024-08-30"
+    },
+    {
+      "id": "2",
+      "title": "Workout",
+      "description": "Morning run and stretching exercises",
+      "isCompleted": false,
+      "dueDate": "2024-08-25"
+    }
+  ]
+  
